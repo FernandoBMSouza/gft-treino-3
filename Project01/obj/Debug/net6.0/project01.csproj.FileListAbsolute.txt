@@ -1,0 +1,15 @@
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\bin\Debug\net6.0\project01.exe
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\bin\Debug\net6.0\project01.deps.json
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\bin\Debug\net6.0\project01.runtimeconfig.json
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\bin\Debug\net6.0\project01.dll
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\bin\Debug\net6.0\project01.pdb
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\project01.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\project01.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\project01.AssemblyInfo.cs
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\project01.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\project01.dll
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\refint\project01.dll
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\project01.pdb
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\project01.genruntimeconfig.cache
+C:\Users\ferna\Documents\Projetos\gft-treino-3\project01\obj\Debug\net6.0\ref\project01.dll
